@@ -73,7 +73,7 @@ jobs:
           report_paths: '**/*-reports/TEST-*.xml'
 
       - name: Upload Test Reports
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: test-reports-${{ matrix.os }}
           path: '**/*-reports'
