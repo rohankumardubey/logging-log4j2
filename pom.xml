@@ -218,7 +218,7 @@
     <jacoco.plugin.version>0.8.6</jacoco.plugin.version>
     <release.plugin.version>2.5.3</release.plugin.version>
     <scm.plugin.version>1.9.5</scm.plugin.version>
-    <jxr.plugin.version>2.5</jxr.plugin.version>
+    <jxr.plugin.version>3.2.0</jxr.plugin.version>
     <revapi.plugin.version>0.12.2</revapi.plugin.version>
     <revapi.skip>true</revapi.skip>
     <site.plugin.version>3.8.2</site.plugin.version>
